@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Dimension X
+Main-Class: Portada
+X-COMMENT: Mi Vida
